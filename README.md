@@ -1,5 +1,5 @@
+<h2>TimeMaster Repository was migrated to internal bitbucket. To get access please contact with Roche DevTools Support</h2>
 # TimeMaster
-
 About
 -----
 TimeMaster is a Chrome extension, which helps you finish your Hangouts meetings on time.
